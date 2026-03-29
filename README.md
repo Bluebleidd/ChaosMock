@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-In--Development-orange?style=for-the-badge)
 # ChaosMock
 
 **API Chaos Engineering Sandbox**
